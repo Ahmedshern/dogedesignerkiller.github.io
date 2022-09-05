@@ -10,16 +10,17 @@
 ############################
 
 # Name of website
-title: My Website
+title: DogeDesigner Killer
 
 # Your name to show in the footer
-author: Some Person
+author: DogeDesigner Killer
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
+  Buy Now: "buy now"
   About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
